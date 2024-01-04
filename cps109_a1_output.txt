@@ -1,0 +1,11 @@
+Client Name      	|	Project                            	|	Service       	|	Hours	|	Price ($)	|	Total Cost ($)
+Harry Potter     	|	Physics Tutoring                   	|	Tutoring      	|	3.0  	|	18.0     	|	54.0          
+Harry Potter     	|	Discrete Mathematics Tutoring      	|	Tutoring      	|	2.0  	|	15.0     	|	30.0          
+Hermione Granger 	|	Chemistry Tutoring                 	|	Tutoring      	|	3.0  	|	20.0     	|	60.0          
+Hermione Granger 	|	Drama Script Writing               	|	Copy writing  	|	None 	|	200.0    	|	200.0         
+Ron Weasley      	|	Physics Tutoring                   	|	Tutoring      	|	1.0  	|	25.0     	|	25.0          
+Ron Weasley      	|	Physics Club Advertisment          	|	Video Editing 	|	None 	|	50.0     	|	50.0          
+Hogwarts School  	|	Courses Enrollment Page            	|	Web Developing	|	None 	|	250.0    	|	250.0         
+Severus Snape    	|	Lecture Notes condensing           	|	Copy writing  	|	2.0  	|	40.0     	|	80.0          
+Severus Snape    	|	Potions Class Advertising          	|	Video Editing 	|	None 	|	20.0     	|	20.0          
+Severus Snape    	|	Potions Class Lecture Notes Writing	|	Copy writing  	|	5.0  	|	20.0     	|	100.0         

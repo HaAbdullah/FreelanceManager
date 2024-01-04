@@ -1,0 +1,6 @@
+Harry Potter:[{'Project': 'Physics Tutoring', 'Service': 'Tutoring', 'Hours': 3.0, 'Price': 18.0}, {'Project': 'Discrete Mathematics Tutoring', 'Service': 'Tutoring', 'Hours': 2.0, 'Price': 15.0}]
+Hermione Granger:[{'Project': 'Chemistry Tutoring', 'Service': 'Tutoring', 'Hours': 3.0, 'Price': 20.0}, {'Project': 'Drama Script Writing', 'Service': 'Copy writing', 'Hours': None, 'Price': 200.0}]
+Ron Weasley:[{'Project': 'Physics Tutoring', 'Service': 'Tutoring', 'Hours': 1.0, 'Price': 25.0}, {'Project': 'Physics Club Advertisment ', 'Service': 'Video Editing', 'Hours': None, 'Price': 50.0}]
+Hogwarts School:[{'Project': 'Courses Enrollment Page', 'Service': 'Web Developing', 'Hours': None, 'Price': 250.0}]
+Severus Snape:[{'Project': 'Lecture Notes condensing', 'Service': 'Copy writing', 'Hours': 2.0, 'Price': 40.0}, {'Project': 'Potions Class Advertising', 'Service': 'Video Editing', 'Hours': None, 'Price': 20.0}, {'Project': 'Potions Class Lecture Notes Writing', 'Service': 'Copy writing', 'Hours': 5.0, 'Price': 20.0}]
+Severussss my ass:[]
